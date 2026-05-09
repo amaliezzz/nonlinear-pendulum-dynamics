@@ -1,0 +1,16 @@
+
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+.ipynb_checkpoints/
+*.ipynb_meta
+
+figures/
+
+.idea/
+*.iml
+*.iws
+*.ipr
